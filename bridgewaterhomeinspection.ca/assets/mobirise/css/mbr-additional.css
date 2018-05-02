@@ -676,7 +676,7 @@ a:hover {
   opacity: .5;
   position: absolute;
   right: 0;
-  top: 0;
+  top: 140px;
   z-index: 0;
 }
 blockquote {
@@ -1528,7 +1528,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #143acc;
+  background-color: #ff5400;
 }
 .cid-qtFJ240b1d button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -1741,7 +1741,7 @@ body {
   }
 }
 .cid-qtFJ24rF8M {
-  background-image: url("../../../assets/images/background-2000x1500.jpg");
+  background-image: url("../../../home-background.jpg");
 }
 .cid-qtFJ24rF8M .mbr-text,
 .cid-qtFJ24rF8M .mbr-section-btn {
@@ -1870,8 +1870,7 @@ body {
 .cid-qtFVu1wzXA {
   padding-top: 120px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/logos-revised-1830x470.png");
-}
+ }
 .cid-qtFVu1wzXA .mbr-iconfont-social {
   font-size: 32px;
   color: #d3ef0c;
@@ -2046,7 +2045,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #143acc;
+  background-color: #ff5400;
 }
 .cid-qtFJ240b1d button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -2464,7 +2463,7 @@ body {
   min-height: 0;
 }
 .cid-qtFMKHO8CH .full-screen .slider-fullscreen-image {
-  min-height: 100vh;
+  min-height: 30vh;
   background-repeat: no-repeat;
   background-position: 50% 50%;
   background-size: cover;
@@ -2479,7 +2478,7 @@ body {
 }
 .cid-qtFMKHO8CH .full-screen .carousel-item .container.container-slide {
   width: 100%;
-  min-height: 100vh;
+  min-height: 30vh;
   padding: 0;
 }
 .cid-qtFMKHO8CH .full-screen .carousel-item .container.container-slide img {
@@ -2657,7 +2656,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #143acc;
+  background-color: #ff5400;
 }
 .cid-qtFJ240b1d button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -3128,7 +3127,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #143acc;
+  background-color: #ff5400;
 }
 .cid-qtFJ240b1d button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
